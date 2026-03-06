@@ -2,7 +2,7 @@
 
 I'm Gopala Krishna.
 
-Web3 enthusiast exploring the Shelby and Aptos ecosystem.
+Web3 Enthusiast and Running Node across DeFi and AI Networks.
 
 🔧 Currently experimenting with:
 - Shelby node infrastructure
